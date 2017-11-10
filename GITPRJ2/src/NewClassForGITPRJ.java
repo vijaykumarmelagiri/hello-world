@@ -1,5 +1,10 @@
 
 public class NewClassForGITPRJ {
 
-		//new class
+	
+	
+	//new class with added comments by Vijay
+
+
 }
+
